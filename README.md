@@ -13,10 +13,23 @@ Identify and describe at least three key milestones in the evolution of software
 - Rise of Agile Methodologies. Around the 2000's creative Agile methodologies were realised improving on how software systems were built.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+1. Requirements: 
+Gathering and documenting user needs and system requirements.
+2. Design:
+Crafting high-level and detailed designs of both software architecture and user interface.
+4. Implementation: 
+Coding and building the software in accordance with the system requirements specification and system design.
+5. Testing: 
+Testing the software to ensure it works, meets the users needs and quality standards.
+6. Deployment: 
+Rolling out the tested software system to production for the users.
+7. Maintenance: 
+Providing ongoing support on issues arising, updates and enhancements to the software system after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Waterfall methodology is sequential with distinct phases that include requirements to deployment and maintenance cascading downwards like a waterfall while 
+while Agile methodology is iterative and incremental focusing on flexibility, collaboration and responding to emerging changes. Waterfall methodology is
+suitable when the scope and requirements of the project are well defined and not likely to change while Agile is suitable when there are changing requirements and continuous stakeholder feedback is required.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
